@@ -12,7 +12,7 @@ url: _model url_
 method: _method: create/read/update/delete_
 data: _model attributes_
 
-Server should allow WebSockets connections at Backbone.WebSocketURL and accept format specified above. Moreover every connected client should be notified about any changes.
+Server should allow WebSockets connections at Backbone.WebSocketURL and accept format specified above. Moreover every connected client should be notified about any changes _(see simple example in server-example.js)_.
 
 ### License
 _MIT_
