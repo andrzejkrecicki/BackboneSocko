@@ -1,7 +1,6 @@
 # BackboneSocko
 
-**socko** /ˈsɒkəʊ/ _adjective, informal_
-*stunningly effective or successful*.
+**socko** ( /ˈsɒkəʊ/ _adjective, informal_ ) *stunningly effective or successful*.
 
 **BackboneSocko** allows you to replace xhr-based Backbone.Sync with realtime WebSockets.
 
